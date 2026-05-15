@@ -27,6 +27,7 @@ Context files that shape Kiro's behavior across all sessions. These go in `~/.ki
 - **workflow-principles.md** — Workflow tiers, execution standards, hard rules
 - **context-mode-routing.md** — MCP routing rules to protect your context window
 - **superpowers.md** — Skill discovery and invocation framework
+- **html-output.md** — Self-contained HTML output for reports, analyses, and human-readable artifacts
 
 ### MCP Integration Guides (`guides/`)
 
